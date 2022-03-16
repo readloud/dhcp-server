@@ -5,25 +5,15 @@
   "maintainer": "CloudShare, Inc.",
   "maintainer_email": "cookbooks@cloudshare.com",
   "license": "Apache 2.0",
-  "platforms": {
-  },
-  "dependencies": {
-  },
-  "recommendations": {
-  },
-  "suggestions": {
-  },
-  "conflicting": {
-  },
-  "providing": {
-  },
-  "replacing": {
-  },
-  "attributes": {
-  },
-  "groupings": {
-  },
-  "recipes": {
-  },
+  "platforms": {},
+  "dependencies": {},
+  "recommendations": {},
+  "suggestions": {},
+  "conflicting": {},
+  "providing": {},
+  "replacing": {},
+  "attributes": {},
+  "groupings": {},
+  "recipes": {},
   "version": "0.0.1"
 }
