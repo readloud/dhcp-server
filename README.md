@@ -88,3 +88,5 @@ TODO
 + `subnets` is currently expected to be found on the node itself, leading to it
   being placed on the environment (as a default attribute). Need to change it to
   be read from a separate data bag item.
+
+deatail for metadata [vault-cluster-cookbook](https://github.com/bloomberg/vault-cluster-cookbook.git)
