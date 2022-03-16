@@ -1,5 +1,7 @@
 Description
 ===========
+You should read this [file](dhcp443/#README) carefully before trying to install or use the ISC DHCP Distribution.
+
 Install and configure a DHCP3 server, optionally configuring it to automatically
 register hosts with a Bind9 name server.
 
