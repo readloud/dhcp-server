@@ -89,4 +89,4 @@ TODO
   being placed on the environment (as a default attribute). Need to change it to
   be read from a separate data bag item.
 
-deatail for metadata [vault-cluster-cookbook](https://github.com/bloomberg/vault-cluster-cookbook.git)
+detail for metadata [vault-cluster-cookbook](https://github.com/bloomberg/vault-cluster-cookbook.git)
