@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 maintainer       "CloudShare, Inc."
 maintainer_email "cookbooks@cloudshare.com"
 license          "Apache 2.0"
